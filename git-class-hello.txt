@@ -1,2 +1,3 @@
 Hello class!
 Everyone will add their own file to this project.
+My next line.
